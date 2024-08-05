@@ -1,0 +1,6 @@
+{
+    "name": "efficiensee/capstone",
+    "require": {
+        "google/apiclient": "^2.0"
+    }
+}
